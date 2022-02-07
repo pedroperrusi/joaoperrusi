@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+title = "João Perrusi"
+theme = "toha"
+background = "images/site/background.jpg"

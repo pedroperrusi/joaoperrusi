@@ -1,0 +1,49 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Independent Musician
+
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: >
+  Experienced Guitarist with a demonstrated history of working in the music industry. Skilled in Music Education, Arranging, Music Technology, and Music Theory. Dual major undergrad student at Berklee College of Music, studying "Performance" and "Contemporary Writing and Production".
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "example@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Berklee College of Music
+  badge: "https://upload.wikimedia.org/wikipedia/commons/9/98/Berklee_College_of_Music_logo_and_wordmark.svg"
+- type: certification
+  name: Escola de Música de Brasília
+  badge: "image/site/emb.jpg"
