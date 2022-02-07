@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://joao-perrusi.netlify.app/"
 title = "João Perrusi"
 theme = "toha"
 [Params]
