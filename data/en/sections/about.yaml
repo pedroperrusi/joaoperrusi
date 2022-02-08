@@ -23,19 +23,19 @@ summary: >
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "joaoperrusi@gmail.com"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/joaoperrusi"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/joaoperrusi/"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/joaoperrusi/"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -43,7 +43,7 @@ socialLinks:
 badges:
 - type: certification
   name: Berklee College of Music
-  badge: "https://upload.wikimedia.org/wikipedia/commons/9/98/Berklee_College_of_Music_logo_and_wordmark.svg"
+  badge: "https://raw.githubusercontent.com/pedroperrusi/joaoperrusi/f59a72cb550bd398fc98573660b9453a9336d6f6/assets/images/site/Berklee_squared.svg"
 - type: certification
   name: Escola de Música de Brasília
-  badge: "image/site/emb.jpg"
+  badge: "https://raw.githubusercontent.com/pedroperrusi/joaoperrusi/6478759c59f3980d0feb5149375f21c8a5a351df/assets/images/site/emb.svg"
