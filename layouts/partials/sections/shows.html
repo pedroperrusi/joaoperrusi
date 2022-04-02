@@ -21,9 +21,9 @@
     </div>
   </div>
   <div class="container filtr-shows">
-    <div class="row" id="recent-post-cards">
+    <div class="row" id="show-cards">
       {{ range (where site.RegularPages.ByDate.Reverse "Type" "in" "shows" )}}
-        {{ partial "cards/recent-post.html" . }}
+        {{ partial "cards/show.html" . }}
       {{ end }}
     </div>
   </div>
